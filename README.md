@@ -3,22 +3,12 @@ Lewin Rosso
 
 Estudiante de Ingeniería en Sistemas en ESCOM-IPN.
 
-Apasionado por:
-
-Tecnología: Desarrollo de software, inteligencia artificial, aprendizaje automático.
-Comunidad: Men in Tech, Techmaker ambassador, Google ESCOM Developers, TechnoLatino.
-Enseñanza: Student Dev.f.
-
 Habilidades:
 
 Programación: Python, Java, C++, JavaScript.
 Herramientas: Git, GitHub, Docker, Kubernetes.
 Metodologías: Agile, Scrum.
 En mi tiempo libre:
-
-Me gusta aprender cosas nuevas sobre tecnología.
-Participo en eventos y talleres de la comunidad tech.
-Disfruto de la música, los videojuegos y la naturaleza.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nata-pirin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/L3w11n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lewin-Rosso) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lewinrdttv) 
